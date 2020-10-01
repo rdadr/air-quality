@@ -2,8 +2,9 @@
   "name": "air-quality",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://github.com/npjytlo/AirQuality.git",
-  "dependencies": {
+  "homepage": "https://github.com/npjytlo/air-quality.git",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+    "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -15,6 +16,7 @@
     "react-scripts": "3.4.3",
     "swiper": "^6.3.2"
   },
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

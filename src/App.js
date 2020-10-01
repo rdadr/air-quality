@@ -95,14 +95,14 @@ function App() {
 
   return (
    <>
-		<HeroBlock title='Качество атмосферного воздуха и здоровье'
+		<HeroBlock  title='Качество атмосферного воздуха и здоровье' 
 			 logos={partners}
-			 links={navLinks}
+			 links={navLinks} 
 		/>
-		<Facts title='Основные факты' slides={factsSlides} 
+		<Facts  title='Основные факты'  slides={factsSlides} 
 		/>
 		<AirQuality/>
-		<SectorsList title='Политика по уменьшению загрязнений'
+		<SectorsList title='Политика по уменьшению загрязнений' 
 				subtitle='Есть много примеров успешной политики по уменьшению загрязнения воздуха в таких секторах, как транспорт, городское планирование, энергетика и промышленность:'
 				 items={sectors}
 				 />

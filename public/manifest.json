@@ -1,6 +1,7 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
+  "homepage": "https://github.com/npjytlo/air-quality.git",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,8 +1,8 @@
 {
+  "homepage": "http://rdadr.github.io/air-quality",
   "name": "air-quality",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rdadr.github.io/air-quality",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },

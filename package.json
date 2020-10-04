@@ -2,7 +2,7 @@
   "name": "air-quality",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/npjytlo/air-quality.git",
+  "homepage": "http://npjytlo/air-quality.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
